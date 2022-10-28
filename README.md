@@ -1,1 +1,1 @@
-# scrimba_scoring
+# basic_scoreboard
